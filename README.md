@@ -7,3 +7,6 @@
 #####  Build in Docker
 
 #####  deployable to Heroku
+
+
+<p> Verified via TravisCI and Codacy </p>
